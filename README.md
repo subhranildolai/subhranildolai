@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋
+I am Subhranil,
+Welcome to my GitHub profile! I'm passionate about technology, coding, and building innovative solutions. Here's a little about me:
 
-<!--
-**subhranildolai/subhranildolai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 I’m currently working on exciting projects related to web and app development.
+- 🌱 I’m always learning new technologies and improving my skills.
+- 💡 I love solving problems and helping others with tech solutions.
+- 🎯 My goal is to contribute to open-source projects and share knowledge.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- 💻 Programming: JavaScript, Python, C, C++
+- 🌐 Web Development: HTML, CSS, React, Node.js
+- 📦 Databases: MySQL, MongoDB
+- 🔧 Tools: Git, GitHub, VS Code, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- ✉️ Email: [contact@subhranil.in](contact@subhranil.in)
+- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/subhranil-dolai/)
+
+Thanks for stopping by! 😊
+
