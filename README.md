@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and build
 
 ## 📫 How to reach me
 - ✉️ Email: [contact@subhranil.in](contact@subhranil.in)
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/subhranil-dolai/)
+- 🔗 LinkedIn: [linkedin.com/in/subhranil-dolai](https://www.linkedin.com/in/subhranil-dolai/)
 
 Thanks for stopping by! 😊
-
